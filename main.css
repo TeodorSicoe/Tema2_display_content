@@ -28,3 +28,21 @@
     width: 320px;
     height: 190px;
 }
+
+.cardNumber {
+    background-color: transparent;
+    margin-top: 130px;
+    margin-left: 10px;
+}
+
+.number {
+    background-color: transparent;
+    margin-left: 10px;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+
+.money {
+    background-color: transparent;
+    margin-right: 10px;
+}
