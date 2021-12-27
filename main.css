@@ -1,0 +1,30 @@
+.myPage {
+    background-color: rgb(230, 235, 235);
+}
+
+.cardSet{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.card1 {
+    background-color: green;
+    width: 320px;
+    height: 190px;
+}
+
+
+.card2 {
+    background-color: green;
+    width: 320px;
+    height: 190px;
+}
+
+
+.card3 {
+    background-color: green;
+    width: 320px;
+    height: 190px;
+}
