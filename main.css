@@ -30,10 +30,14 @@
 .cardNumber {
     background-color: transparent;
     font-family: 'Michroma', sans-serif;
-    margin-top: 90px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction:column;
+
+    /* margin-top: 90px;
     margin-left: 10px;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+    margin-bottom: 0px; */
+    padding-top: 60px;
 }
 
 .number {
